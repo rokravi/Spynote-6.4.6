@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<AndroidTester>
+  <item>
+    <id>0</id>
+    <name>Port</name>
+    <value>2020</value>
+  </item>
+  <item>
+    <id>1</id>
+    <name>Password</name>
+    <value>False</value>
+  </item>
+  <item>
+    <id>2</id>
+    <name>Attacks</name>
+    <value>False</value>
+  </item>
+  <item>
+    <id>3</id>
+    <name>KeyPass</name>
+    <value>
+    </value>
+  </item>
+  <item>
+    <id>4</id>
+    <name>View</name>
+    <value>10010</value>
+  </item>
+  <item>
+    <id>5</id>
+    <name>T</name>
+    <value>00000</value>
+  </item>
+</AndroidTester>
